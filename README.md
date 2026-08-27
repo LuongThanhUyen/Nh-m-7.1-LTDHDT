@@ -13,3 +13,35 @@
 - Khái niệm kế thừa // Nông Thị Thanh Hiền
 - Khái niệm đóng gói // Lương Thanh Uyên
 - Khái niệm đa hình // Sỹ Bảo Châu
+
+# GIỚI THIỆU VỀ LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
+#1. Khái niệm:
+- Lập trình hướng đối tượng (OOP – Object-Oriented Programming) là phương pháp lập trình tổ chức chương trình dựa trên đối tượng.
+- Mỗi đối tượng gồm:
++ Thuộc tính: thông tin của đối tượng.
++ Phương thức: các hành động mà đối tượng có thể thực hiện.
+
+Ví dụ: Đối tượng SinhVien có thuộc tính mã SV, họ tên, điểm và phương thức nhập(), xuất(), tínhĐTB().
+
+#2. Các phương pháp lập trình:
+a) Lập trình tuyến tính:
+- Chương trình được thực hiện tuần tự từ trên xuống dưới (do đơn luồng), thường đơn giản và dễ hiểu.
+- Hạn chế: khó quản lý khi chương trình trở nên lớn và phức tạp.
+b) Lập trình cấu trúc:
+- Chương trình được chia thành các hàm/chương trình con để dễ quản lý và tái sử dụng.
+- Hạn chế: dữ liệu và các hàm xử lý còn tương đối tách rời, khó mở rộng với phần mềm lớn.
+c) Lập trình hướng đối tượng:
+- Tổ chức chương trình thành các đối tượng, kết hợp dữ liệu và phương thức xử lý.
+- Ưu điểm:
++ Dễ quản lý chương trình lớn.
++ Tái sử dụng mã nguồn.
++ Dễ mở rộng và bảo trì.
++ Bảo vệ dữ liệu tốt hơn thông qua tính đóng gói.
+#3. Bốn tính chất cơ bản của OOP:
+- Đóng gói (Encapsulation): Gom dữ liệu và phương thức vào một lớp, đồng thời kiểm soát quyền truy cập dữ liệu.
+- Kế thừa (Inheritance): Lớp con có thể kế thừa thuộc tính và phương thức từ lớp cha.
+- Đa hình (Polymorphism): Một phương thức có thể có nhiều cách thực hiện khác nhau tùy đối tượng.
+- Trừu tượng (Abstraction): Chỉ thể hiện những đặc điểm cần thiết, che giấu các chi tiết không cần thiết.
+#4. Class và Object:
+- Class (Lớp): khuôn mẫu để tạo ra các đối tượng.
+- Object (Đối tượng): một thể hiện cụ thể của lớp.
