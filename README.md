@@ -9,10 +9,10 @@
 5. Đào Hương Ly
 
 ## Nội dung
-• Đối tượng // Đào Hương Ly
-• Lớp đối tượng // Đào Hương Ly
-• Trừu tượng hóa đối tượng theo chức năng // Ngô Thu Hương
-• Trừu tượng hóa đối tượng theo dữ liệu // Ngô Thu Hương
-• Khái niệm kế thừa // Nông Thị Thanh Hiền
-• Khái niệm đóng gói // Lương Thanh Uyên
-• Khái niệm đa hình // Sỹ Bảo Châu
+- Đối tượng // Đào Hương Ly
+- Lớp đối tượng // Đào Hương Ly
+- Trừu tượng hóa đối tượng theo chức năng // Ngô Thu Hương
+- Trừu tượng hóa đối tượng theo dữ liệu // Ngô Thu Hương
+- Khái niệm kế thừa // Nông Thị Thanh Hiền
+- Khái niệm đóng gói // Lương Thanh Uyên
+- Khái niệm đa hình // Sỹ Bảo Châu
