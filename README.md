@@ -7,8 +7,8 @@ Hoạt động (Behavior): Các hành động mà đối tượng đó có thể
 
 Khái niệm 2: Lớp (Class / Lớp đối tượng) là một khái niệm trừu tượng dùng để chỉ một tập hợp các đối tượng có chung các đặc tính trong hệ thống. Nó đóng vai trò như một khuôn mẫu (prototype) hay bản thiết kế để tạo ra các đối tượng.
 Thành phần của Lớp:
-Thuộc tính (Attributes): Tương ứng với thông tin/trạng thái chung của các đối tượng (Ví dụ: NhanHieu, MauSac, GiaBiet).
-Phương thức (Methods): Tương ứng với các hành động của đối tượng (Ví dụ: KhoiDong(), TangToc()).
+Thuộc tính (Attributes): Tương ứng với thông tin/trạng thái chung của các đối tượng.
+Phương thức (Methods): Tương ứng với các hành động của đối tượng.
 Các khả năng thiết kế của một Lớp:
 Chỉ có thuộc tính, không có phương thức (Ví dụ: Lớp cấu hình chứa dữ liệu tĩnh).
 Chỉ có phương thức, không có thuộc tính (Ví dụ: Lớp tiện ích tính toán toán học).
