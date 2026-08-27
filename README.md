@@ -1,13 +1,10 @@
 # Nh-m-7.1-LTDHDT
-# GIỚI THIỆU VỀ LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
-
 ## Thành viên nhóm 7
 1. Lương Thanh Uyên - Nhóm trưởng
 2. Nông Thị Thanh Hiền
 3. Sỹ Bảo Châu
 4. Ngô Thu Hương
 5. Đào Hương Ly
-
 ## Nội dung
 - Đối tượng // Đào Hương Ly
 - Lớp đối tượng // Đào Hương Ly
