@@ -21,6 +21,27 @@ c) Lập trình hướng đối tượng:
 + Tái sử dụng mã nguồn.
 + Dễ mở rộng và bảo trì.
 + Bảo vệ dữ liệu tốt hơn thông qua tính đóng gói.
+
+                                                                                                Lập trình tuyến tính
+                                                                                                       ↓
+                                                                                                Đơn giản nhưng khó quản lý khi chương trình lớn
+                                                                                                       ↓
+                                                                                                Lập trình cấu trúc
+                                                                                                       ↓
+                                                                                                Chia chương trình thành các hàm
+                                                                                                       ↓
+                                                                                                Dễ quản lý hơn nhưng dữ liệu và chức năng
+                                                                                                vẫn chưa được tổ chức tốt
+                                                                                                       ↓
+                                                                                                Lập trình hướng đối tượng
+                                                                                                       ↓
+                                                                                                Gom dữ liệu + chức năng vào đối tượng
+                                                                                                       ↓
+                                                                                                Dễ quản lý + tái sử dụng + phù hợp
+                                                                                                với phần mềm lớn
+                                                                                                
+
+
 #3. Bốn tính chất cơ bản của OOP:
 - Đóng gói (Encapsulation): Gom dữ liệu và phương thức vào một lớp, đồng thời kiểm soát quyền truy cập dữ liệu.
 - Kế thừa (Inheritance): Lớp con có thể kế thừa thuộc tính và phương thức từ lớp cha.
@@ -29,3 +50,4 @@ c) Lập trình hướng đối tượng:
 #4. Class và Object:
 - Class (Lớp): khuôn mẫu để tạo ra các đối tượng.
 - Object (Đối tượng): một thể hiện cụ thể của lớp.
+
