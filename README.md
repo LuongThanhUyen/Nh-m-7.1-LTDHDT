@@ -1,17 +1,14 @@
 # Nh-m-7.1-LTDHDT
 Khái niệm 1: Đối tượng (Objects) là các thực thể trong hệ thống hoạt động khi chương trình đang chạy. 
-Một đối tượng được xác định rõ ràng thông qua 3 yếu tố:
-Định danh (Identity): Tên hoặc mã phân biệt đối tượng này với đối tượng khác.
-Trạng thái (State): Giá trị của các thuộc tính tại một thời điểm.
-Hoạt động (Behavior): Các hành động mà đối tượng đó có thể thực hiện.
+Một đối tượng được xác định rõ ràng thông qua 3 yếu tố: Định danh (Identity): Tên hoặc mã phân biệt đối tượng này với đối tượng khác, Trạng thái (State): Giá trị của các thuộc tính tại một thời điểm, Hoạt động (Behavior): Các hành động mà đối tượng đó có thể thực hiện.
 
 Khái niệm 2: Lớp (Class / Lớp đối tượng) là một khái niệm trừu tượng dùng để chỉ một tập hợp các đối tượng có chung các đặc tính trong hệ thống. Nó đóng vai trò như một khuôn mẫu (prototype) hay bản thiết kế để tạo ra các đối tượng.
 Thành phần của Lớp:
 Thuộc tính (Attributes): Tương ứng với thông tin/trạng thái chung của các đối tượng.
 Phương thức (Methods): Tương ứng với các hành động của đối tượng.
 Các khả năng thiết kế của một Lớp:
-Chỉ có thuộc tính, không có phương thức (Ví dụ: Lớp cấu hình chứa dữ liệu tĩnh).
-Chỉ có phương thức, không có thuộc tính (Ví dụ: Lớp tiện ích tính toán toán học).
+Chỉ có thuộc tính, không có phương thức.
+Chỉ có phương thức, không có thuộc tính.
 Có cả thuộc tính và phương thức (Trường hợp phổ biến nhất).
 Lớp trừu tượng (Abstract Class): Lớp đặc biệt dùng làm khuôn mẫu chung và không tạo trực tiếp đối tượng tương ứng.
 
