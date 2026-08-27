@@ -1,2 +1,11 @@
 # Nh-m-7.1-LTDHDT
 Tính đa hình
+- Cho phép các lớp được định nghĩa các phương
+thức trùng nhau: cùng tên, cùng số lượng và
+kiểu tham số, cùng kiểu trả về.
+-  Việc định nghĩa phương thức trùng nhau của
+các lớp kế thừa nhau còn được gọi là sự nạp
+chồng phương thức.
+-  Khi gọi các phương thức trùng tên, dựa vào đối
+tượng đang gọi mà chương trình sẽ thực hiện
+phương thức của lớp tương ứng
