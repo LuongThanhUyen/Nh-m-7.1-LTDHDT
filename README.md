@@ -1,7 +1,7 @@
 # Nh-m-7.1-LTDHDT
 Sự kế thừa
 Thừa kế (Inheritance): Lớp dẫn xuất có thể sử dụng các thuộc tính và phương thức của lớp cơ sở.
-Cho phép lớp dẫn xuất có thể sử dụng các thuộc tính và phương thức của lớp cơ sở 
+- Cho phép lớp dẫn xuất có thể sử dụng các thuộc tính và phương thức của lớp cơ sở 
 Cho phép chỉ cần cài đặt phương thức ở một lớp cơ sở mà có thể sử dụng được ở tất cả các lớp dẫn xuất.
 Cho phép tránh sự cài đặt trung lặp mã nguồn của chương trình
 Cho phép chỉ phải thay đổi một lần khi cần phải thay đổi của các lớp
