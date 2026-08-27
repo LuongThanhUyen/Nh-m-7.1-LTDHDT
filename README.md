@@ -22,24 +22,24 @@ Có cả thuộc tính và phương thức (Trường hợp phổ biến nhất)
 # Lớp trừu tượng (Abstract Class): Lớp đặc biệt dùng làm khuôn mẫu chung và không tạo trực tiếp đối tượng tương ứng.
 
 # phân biệt giữa Lớp (Class) và Lớp trừu tượng (Abstract Class)
-Về định nghĩa và bản chất:
-- Lớp (Concrete Class): Là bản thiết kế hoàn chỉnh, định nghĩa chi tiết toàn bộ thuộc tính và triển khai đầy đủ logic cho tất cả các phương thức.
-- Lớp trừu tượng (Abstract Class): Là bản thiết kế dở dang hoặc khung xương, dùng làm mẫu chung cho các lớp con kế thừa chứ chưa cài đặt chi tiết cho toàn bộ hành vi.
-Về khả năng khởi tạo đối tượng:
-- Lớp: Có thể dùng từ khóa new để tạo trực tiếp đối tượng thực thi trong chương trình.
-- Lớp trừu tượng: Không thể khởi tạo đối tượng trực tiếp.
-Về phương thức:
-- Lớp: Chỉ chứa các phương thức thông thường có phần thân triển khai {}.
-- Lớp trừu tượng: Có thể chứa cả phương thức thông thường lẫn phương thức trừu tượng (phương thức không có phần thân, chỉ có tên và tham số).
-Về tính kế thừa và triển khai:
-- Lớp: Lớp con khi kế thừa lớp thông thường có thể chọn ghi đè (override) hoặc giữ nguyên các phương thức của lớp cha.
-- Lớp trừu tượng: Bắt buộc lớp con (nếu là lớp cụ thể) phải viết code triển khai chi tiết cho tất cả các phương thức trừu tượng do lớp cha quy định.
-Về từ khóa khai báo (trong các ngôn ngữ OOP như Java, C#):
-- Lớp: Khai báo bằng từ khóa "class".
-- Lớp trừu tượng: Bắt buộc phải khai báo bằng từ khóa "abstract class".
-Về mục đích sử dụng:
-- Lớp: Dùng để tạo ra các thực thể cụ thể trực tiếp lưu trữ dữ liệu và xử lý tác vụ khi chương trình chạy.
-- Lớp trừu tượng: Dùng để xây dựng khung cấu trúc chuẩn cho một nhóm đối tượng có liên quan, giúp đảm bảo tính nhất quán và tái sử dụng mã nguồn.
+- Về định nghĩa và bản chất:
++ Lớp (Concrete Class): Là bản thiết kế hoàn chỉnh, định nghĩa chi tiết toàn bộ thuộc tính và triển khai đầy đủ logic cho tất cả các phương thức.
++ Lớp trừu tượng (Abstract Class): Là bản thiết kế dở dang hoặc khung xương, dùng làm mẫu chung cho các lớp con kế thừa chứ chưa cài đặt chi tiết cho toàn bộ hành vi.
+- Về khả năng khởi tạo đối tượng:
++ Lớp: Có thể dùng từ khóa new để tạo trực tiếp đối tượng thực thi trong chương trình.
++ Lớp trừu tượng: Không thể khởi tạo đối tượng trực tiếp.
+- Về phương thức:
++ Lớp: Chỉ chứa các phương thức thông thường có phần thân triển khai {}.
++ Lớp trừu tượng: Có thể chứa cả phương thức thông thường lẫn phương thức trừu tượng (phương thức không có phần thân, chỉ có tên và tham số).
+- Về tính kế thừa và triển khai:
++ Lớp: Lớp con khi kế thừa lớp thông thường có thể chọn ghi đè (override) hoặc giữ nguyên các phương thức của lớp cha.
++ Lớp trừu tượng: Bắt buộc lớp con (nếu là lớp cụ thể) phải viết code triển khai chi tiết cho tất cả các phương thức trừu tượng do lớp cha quy định.
+- Về từ khóa khai báo (trong các ngôn ngữ OOP như Java, C#):
++ Lớp: Khai báo bằng từ khóa "class".
++ Lớp trừu tượng: Bắt buộc phải khai báo bằng từ khóa "abstract class".
+- Về mục đích sử dụng:
++ Lớp: Dùng để tạo ra các thực thể cụ thể trực tiếp lưu trữ dữ liệu và xử lý tác vụ khi chương trình chạy.
++ Lớp trừu tượng: Dùng để xây dựng khung cấu trúc chuẩn cho một nhóm đối tượng có liên quan, giúp đảm bảo tính nhất quán và tái sử dụng mã nguồn.
 
 # So sánh và Mối liên hệ giữa Lớp và Đối tượng
 Dù có mối quan hệ chặt chẽ, bản chất của lớp và đối tượng hoàn toàn khác nhau:
